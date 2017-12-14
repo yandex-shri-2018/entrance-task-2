@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>calendar</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets" transform="translate(-143.000000, -78.000000)">
+            <g id="calendar" transform="translate(138.000000, 74.000000)">
+                <rect id="Rectangle-2" x="0" y="0" width="24" height="24"></rect>
+                <path d="M6,9 L6,17 L18,17 L18,9 L6,9 Z M17,6 L19,6 L19,18 L5,18 L5,6 L7,6 L7,4 L9,4 L9,6 L15,6 L15,4 L17,4 L17,6 Z M7,13 L7,15 L9,15 L9,13 L7,13 Z M7,10 L7,12 L9,12 L9,10 L7,10 Z M10,10 L10,12 L12,12 L12,10 L10,10 Z" id="ic_calendar" fill="#000000" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
